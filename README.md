@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://github.com/a-gva/a-gva/blob/main/portfolio-cover-sm.png)
+
 <!--
 **a-gva/a-gva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
