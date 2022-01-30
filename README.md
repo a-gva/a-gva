@@ -15,6 +15,6 @@
 *   NPM:      EJS (templating), Mongoose (DB integration), method-override (HTTP requests), joi (data validation)
 
 
-📫 How to reach me: 
-#📧 (alexyviegas@hotmail.com)
-#(https://www.linkedin.com/in/alexy-viegas-806ba571/)
+📫 Reach me at:
+📧 [alexyviegas@hotmail.com](alexyviegas@hotmail.com)
+[Linkedin Profile](https://www.linkedin.com/in/alexy-viegas-806ba571/)
