@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hey there! 👋
 
 ![image](https://github.com/a-gva/a-gva/blob/main/portfolio-cover-sm.png)
 
