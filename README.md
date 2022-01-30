@@ -8,10 +8,10 @@
 👯 Looking to collaborate on web development projects & music technologies.
 
 ## 💻 Most familiar tools, languages and frameworks:
-🕶️   CORE:     HTML, CSS & JavaScript
-✨   STYLING:  Flexbox, Bootstrap, Sass
-🧳   BACKEND:  NODE.JS, Express.JS
-📖   DBs:      MySQL, MongoDB
+🕶️   Core:     HTML, CSS & JavaScript <br>
+✨   Styling:  Flexbox, Bootstrap, Sass <br>
+🧳   BackEnd:  NODE.JS, Express.JS <br>
+📖   DBs:      MySQL, MongoDB <br>
 🪁   NPM:      EJS (templating), Mongoose (DB integration), method-override (HTTP requests), joi (data validation)
 
 
