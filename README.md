@@ -6,6 +6,7 @@
 🔭 Working on my web development skills.
 🌱 I’m currently learning NOJE.JS & other backend resources.
 👯 I’m looking to collaborate on web development projects & music technologies.
+
 ## 💻 Most familiar tools, languages and frameworks:
 *   CORE:     HTML, CSS & JavaScript
 *   STYLING:  Flexbox, Bootstrap, Sass
@@ -15,5 +16,5 @@
 
 
 📫 How to reach me: 
-alexyviegas@hotmail.com
+📧 (alexyviegas@hotmail.com)
 (https://www.linkedin.com/in/alexy-viegas-806ba571/)
