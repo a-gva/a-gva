@@ -16,5 +16,5 @@
 
 
 📫 How to reach me: 
-📧 (alexyviegas@hotmail.com)
-(https://www.linkedin.com/in/alexy-viegas-806ba571/)
+#📧 (alexyviegas@hotmail.com)
+#(https://www.linkedin.com/in/alexy-viegas-806ba571/)
