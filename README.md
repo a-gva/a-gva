@@ -4,8 +4,8 @@
 
 
 🔭 Working on my web development skills.
-🌱 I’m currently learning NOJE.JS & other backend resources.
-👯 I’m looking to collaborate on web development projects & music technologies.
+🌱 Currently learning NOJE.JS & other backend resources.
+👯 Looking to collaborate on web development projects & music technologies.
 
 ## 💻 Most familiar tools, languages and frameworks:
 *   CORE:     HTML, CSS & JavaScript
