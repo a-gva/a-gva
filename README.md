@@ -3,8 +3,8 @@
 ![image](https://github.com/a-gva/a-gva/blob/main/portfolio-cover-sm.png)
 
 
-🔭 Working on my web development skills.
-🌱 Currently learning NOJE.JS & other backend resources.
+🔭 Working on my web development skills. <br>
+🌱 Currently learning NOJE.JS & other backend resources. <br>
 👯 Looking to collaborate on web development projects & music technologies.
 
 ## 💻 Most familiar tools, languages and frameworks:
@@ -17,5 +17,5 @@
 
 📫 Reach me at:
 
-📧 [alexyviegas@hotmail.com](alexyviegas@hotmail.com)
+📧 [alexyviegas@hotmail.com](alexyviegas@hotmail.com) <br>
 🖥️ [Linkedin](https://www.linkedin.com/in/alexy-viegas-806ba571/)
