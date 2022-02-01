@@ -1,8 +1,5 @@
 ## Hey there! 👋
 
-![image](https://github.com/a-gva/a-gva/blob/main/portfolio-cover-sm.png)
-
-
 🔭 Working on my web development skills. <br>
 🌱 Currently learning NOJE.JS & other backend resources. <br>
 👯 Looking to collaborate on web development projects & music technologies.
