@@ -10,8 +10,9 @@
 
 ## 💻 Most familiar tools, languages and frameworks:
 🕶️   Core:     HTML, CSS & JavaScript <br>
-✨   Styling:  Flexbox, Bootstrap, Sass <br>
-🧳   BackEnd:  NODE.JS, Express.JS <br>
+💫   FrontEnd: React (hooks, routes, axios, webpack, vite, useParams, PropTypes) <br>
+✨   Styling:  Flexbox, Bootstrap, Tailwind, Sass <br>
+🧳   BackEnd:   NODE.JS, Express.JS <br>
 📖   DBs:      MySQL, MongoDB <br>
 🪁   NPM:      EJS (templating), Mongoose (DB integration), method-override (HTTP requests), joi (data validation)
 
