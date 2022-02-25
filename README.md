@@ -5,7 +5,8 @@
 👯 Looking to collaborate on web development projects & music technologies.
 
 ## React Projects:
-[Github Finder](https://buscadorgithub.netlify.app/) <br>
+[• Github Finder](https://buscadorgithub.netlify.app/) <br>
+[• Feedback App](https://feedback-app-agva.netlify.app/) <br>
 
 ## 💻 Most familiar tools, languages and frameworks:
 🕶️   Core:     HTML, CSS & JavaScript <br>
